@@ -19,7 +19,7 @@ int main(void)
 			putchar(r);
 			putchar(y);
 		}
-		if (r == 1 && y == 0)
+		if (r == 56 && y == 57)
 		{
 			continue;
 		}
