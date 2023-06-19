@@ -1,9 +1,10 @@
 #include<stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*main- entry point */
-/*description -the code compare two numbers*/
-/* Return is always zero */
+/**
+ * main - entry point
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
