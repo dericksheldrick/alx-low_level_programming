@@ -3,7 +3,7 @@
  *main - entry point
  *
  * program that prints all the numbers of base 16 in lowercase
- * return is always zero
+ * Return: is always zero
  */
 int main(void)
 {
