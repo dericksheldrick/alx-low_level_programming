@@ -1,8 +1,7 @@
 #include<stdio.h>
 /**
- * main- the entry point
- * decsription:'the code output alphabet in small letters'
- * return:always 0
+ * main - entry point
+ * Return: 0
  */
 int main(void)
 {
