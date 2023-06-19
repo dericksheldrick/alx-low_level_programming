@@ -1,8 +1,7 @@
 #include<stdio.h>
 /**
- * main -entry point
- * description:code that print out the all letters
- * return always 0
+ * main - entry point
+ * Return: 0
  */
 int main(void)
 {
