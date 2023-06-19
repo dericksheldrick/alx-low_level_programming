@@ -2,9 +2,8 @@
 # include <stdlib.h>
 # include <time.h>
 /**
- *main-entry point
- *description: 'prints the random numbers
- *return:always the return is zero
+ * main - entry point
+ * Return: 0
  */
 int main(void)
 {
