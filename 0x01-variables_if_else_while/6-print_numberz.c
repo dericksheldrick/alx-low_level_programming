@@ -1,8 +1,7 @@
 #include<stdio.h>
 /**
- *main - entry points
- *description:'a program that prints all single digit numbers'
- *return always return zero
+ * main - entry point
+ * Return: 0
  */
 int main(void)
 {
