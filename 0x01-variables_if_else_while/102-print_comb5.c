@@ -3,7 +3,7 @@
  * main - entry point
  *
  * combinations of two two-digit numbers.
- * return always return 0 (success)
+ * Return: always return 0 (success)
  */
 int main(void)
 {
