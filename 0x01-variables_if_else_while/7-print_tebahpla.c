@@ -1,9 +1,7 @@
 #include<stdio.h>
 /**
  *main - entry point
- *
- * description:'program that prints the lowercase alphabet in reverse'
- * return always return zero
+ * Return: always return 0
  */
 int main(void)
 {
