@@ -1,6 +1,6 @@
 # include <stdio.h>
 /**
- *main - start/entr point
+ *main - prints exactly with proper grammar, but the outcome is a piece of art
  *return : always return 0 (successful)
  */
 int main(void)
