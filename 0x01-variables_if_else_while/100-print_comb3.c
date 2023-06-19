@@ -3,7 +3,7 @@
  * main - entry point
  *
  * all possible combination of two digits
- * return zero (succees)
+ * Return: zero (succees)
  */
 int main(void)
 {
