@@ -2,7 +2,8 @@
 /**
  * _islower - checks for lowercase character
  *@c: character in ASII CODE
- * Returns: 1 for lowercase character 0 rest
+ * Returns: 1 if c is lowercase
+ * Return: 0 otherwise
  */
 int _islower(int c)
 {
