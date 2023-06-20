@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _islower - checks for lowercase character
- * @c: character in ASII CODE 
+ *@c: character in ASII CODE
  * Returns: 1 for lowercase character 0 rest
  */
 int _islower(int c)
