@@ -5,6 +5,7 @@
  * followed new line
  * Return: number 0-14 printed 10 times
  */
+
 void more_numbers(void)
 {
 	int i;
