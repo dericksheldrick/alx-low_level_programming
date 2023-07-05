@@ -12,7 +12,7 @@ int is_prime_number(int n)
 }
 /**
  * show_prime - show prime numbers
- * @n input the intergers
+ * @n: number to be checked
  * @i: iterate n
  * Return: 1-prime number 0-otherwise
  */
