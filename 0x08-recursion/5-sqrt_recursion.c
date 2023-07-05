@@ -12,6 +12,10 @@ int _sqrt_recursion(int n)
 {
 	return (_sqrt(n, 1));
 }
+/**
+ * _sqrt - input two integers
+ * Return: natural square root of a numbe
+ */r
 
 
 int _sqrt(int n, int i)
