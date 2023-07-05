@@ -15,6 +15,8 @@ int _sqrt_recursion(int n)
 /**
  * _sqrt - input two integers
  * Return: natural square root of a number
+ * @n: number to find the root
+ * @i: integer input
  */
 
 
