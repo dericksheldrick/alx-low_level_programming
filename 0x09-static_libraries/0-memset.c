@@ -2,8 +2,8 @@
 /**
  *  * _memset - fill a block of memory with a specific value
  * @s: starting address of memory to be filled
- * @b: the desired value
- * @n: number of bytes to be changed
+ * @d: character input
+ * @m: input integers
  *
  * Return: changed array with new value for n bytes
  */
