@@ -1,10 +1,11 @@
 #include<stdio.h>
 #include"main.h"
 /**
- * main - prints all arguments it receives.
+ * main - prints all arguments it receives
+ * @m: string to be output
  * @argc: counts the argument
  * @argv:arguments vector
- */
+ * */
 int main (int argc, char *argv[])
 {
 	int m;
